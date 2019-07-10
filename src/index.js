@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App.js';
 // import reducers from './reducers';
-import './styles/fonts.css';
+import './styles/typeography.css';
 import './styles/global.css';
 
 // const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
