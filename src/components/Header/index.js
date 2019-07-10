@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div style={styles.header}>
             <h1 className="heading">Heading</h1>
-            <ActionButton content={'Button'} />
+            <ActionButton content={'Login'} />
         </div>
     )
 }

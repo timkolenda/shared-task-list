@@ -2,7 +2,7 @@
 
 export default {
     header: {
-        backgroundColor: 'green',
+        backgroundColor: 'grey',
         display: 'flex',
         justifyContent: 'space-between',
         padding: '0 10px',
