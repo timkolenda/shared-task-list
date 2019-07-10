@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/timkolenda/shared-task-list/precache-manifest.67e7fb474cc1f236726ea900fc67cfbd.js"
+  "/timkolenda/shared-task-list/precache-manifest.99e6126606fbc720a59813ac30562494.js"
 );
 
 self.addEventListener('message', (event) => {
