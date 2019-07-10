@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import styles from './styles.css';
-import { LinkButton, ActionButton } from '../Button';
+import { ActionButton } from '../Button';
 
 const Header = () => {
     return (
