@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/timkolenda/shared-task-list/static/css/main.2065faad.chunk.css",
-    "main.js": "/timkolenda/shared-task-list/static/js/main.63393ce8.chunk.js",
-    "main.js.map": "/timkolenda/shared-task-list/static/js/main.63393ce8.chunk.js.map",
+    "main.css": "/timkolenda/shared-task-list/static/css/main.4fb606b5.chunk.css",
+    "main.js": "/timkolenda/shared-task-list/static/js/main.d482f7a3.chunk.js",
+    "main.js.map": "/timkolenda/shared-task-list/static/js/main.d482f7a3.chunk.js.map",
     "runtime~main.js": "/timkolenda/shared-task-list/static/js/runtime~main.70991122.js",
     "runtime~main.js.map": "/timkolenda/shared-task-list/static/js/runtime~main.70991122.js.map",
-    "static/js/2.3310f33a.chunk.js": "/timkolenda/shared-task-list/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/timkolenda/shared-task-list/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.9d30ae39.chunk.js": "/timkolenda/shared-task-list/static/js/2.9d30ae39.chunk.js",
+    "static/js/2.9d30ae39.chunk.js.map": "/timkolenda/shared-task-list/static/js/2.9d30ae39.chunk.js.map",
     "index.html": "/timkolenda/shared-task-list/index.html",
-    "precache-manifest.99e6126606fbc720a59813ac30562494.js": "/timkolenda/shared-task-list/precache-manifest.99e6126606fbc720a59813ac30562494.js",
+    "precache-manifest.5bf9c2f136020123b8ac519c50f43aba.js": "/timkolenda/shared-task-list/precache-manifest.5bf9c2f136020123b8ac519c50f43aba.js",
     "service-worker.js": "/timkolenda/shared-task-list/service-worker.js",
-    "static/css/main.2065faad.chunk.css.map": "/timkolenda/shared-task-list/static/css/main.2065faad.chunk.css.map"
+    "static/css/main.4fb606b5.chunk.css.map": "/timkolenda/shared-task-list/static/css/main.4fb606b5.chunk.css.map"
   }
 }
