@@ -12,11 +12,11 @@ export const ActionButton = ({ content, action, type }) => {
     )
 }
 
-export const LinkButton = ({ content, action, type, destination }) => {
+export const LinkButton = ({ content, action, type, target }) => {
     const buttonStyle = { ...styles.button, ...styles[type] };
     return (
         <div style={styles.buttonContainer}>
-            <Link to={destination || null} onClick={action || null} style={buttonStyle}>{content || null}</Link>
+            <Link to={target || null} onClick={action || null} style={buttonStyle}>{content || null}</Link>
         </div>
     )
 }

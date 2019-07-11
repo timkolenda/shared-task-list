@@ -1,5 +1,4 @@
 export default {
-
     buttonContainer: {
         display: 'flex',
         alignItems: 'center'
@@ -10,11 +9,10 @@ export default {
         color: '#fff',
         border: 'none',
         padding: '8px 20px',
-        borderRadius: '3px'
+        borderRadius: '3px',
+        textDecoration: 'none'
     },
     red: {
         backgroundColor: 'red'
     }
-
-
 }
